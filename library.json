@@ -1,0 +1,26 @@
+{
+    "name": "PanelStepper",
+    "version": "1.0.0",
+    "description": "A \"Arduino Framework\" libary for moving stepper motors on ramps 1.4 \"board\" (or some variant) ",
+    "keywords": "stepper, motor, ramps 1.4",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/username/hello-world.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Pablo Vivar Colina",
+        "email": "pablovc@tutanota.com",
+        "url": "https://github.com/pablovi33"
+      }
+    ],
+    "license": "GPL",
+    "homepage": "https://www.gnu.org/licenses/gpl-3.0.en.html",
+    "dependencies": {
+      "ownername/print": "3"
+    },
+    "frameworks": "Arduino",
+    "platforms": "platformio"
+  }
